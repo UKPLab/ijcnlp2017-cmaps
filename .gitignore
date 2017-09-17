@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.python-version
+.env
+.venv/
+venv/
+ENV/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+/target/
+/.classpath
+/.project
+/.pydevproject
+/.settings/
+/data/
+/ext_models/
+/models/
+/lib/
+/WordNet-JWI
